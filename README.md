@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://img.shields.io/badge/-CSharp-5C2D91.svg?logo=C%20Sharp&style=plastic">
 
 **Framework**
+<img align="right" src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic">
 <img align="right" src="https://img.shields.io/badge/-Vue.js-009688.svg?logo=vue.js&style=plastic">
 <img align="right" src="https://img.shields.io/badge/-React-303F9F.svg?logo=react&style=plastic">
 <img align="right" src="https://img.shields.io/badge/-Angular-DD0031.svg?logo=angular&style=plastic">
