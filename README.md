@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=zenolis&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenolis&layout=compact" />
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=zenolis&show_icons=true&count_private=true&include_all_commits=true" />
+  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenolis&layout=compact&count_private=true" />
 </p>
 
 ## Developments
