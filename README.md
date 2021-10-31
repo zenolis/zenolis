@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img width=60% src="https://github-readme-stats.vercel.app/api?username=zenolis&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zenolis&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenolis&layout=compact" />
 </p>
 
-## Skills
+## Developments
 **Programming**
 <img align="right" src="https://img.shields.io/badge/-CSS3-ffff00.svg?logo=css3&style=plastic">
 <img align="right" src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=plastic">
