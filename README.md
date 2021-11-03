@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm zenolis</h1>
+<h1>Hi 👋, I'm zenolis</h1>
 <p align="left">
   <a href="https://github.com/zenolis/zenolis/">
     <img src="https://komarev.com/ghpvc?username=zenolis" alt="zenolis" />
