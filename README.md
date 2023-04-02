@@ -18,11 +18,16 @@
   </a>
 </p>
 
+<a href="https://github.com/zenolis/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/zenolis/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=zenolis&column=8&theme=nord&no-frame=true"/>
+</a>
+
 <p> 
-  <img alt="github stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=zenolis&theme=nord&show_icons=ture&include_all_commits=true&hide_border=true&border_radius=10" />
-  <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenolis&theme=nord&show_icons=true&layout=compact&hide_border=true" />
+  <img alt="github stats" height="169px" src="https://github-readme-stats.vercel.app/api?username=zenolis&theme=nord&show_icons=ture&include_all_commits=true&hide_border=true&border_radius=10" />
+  <img alt="Top Langs" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenolis&theme=nord&show_icons=true&layout=compact&hide_border=true&border_radius=10" />
 </p>
 
-<p>
-  <img alt="Profile Trophy" height="130px" src="https://github-profile-trophy.vercel.app?username=zenolis&theme=nord&no-frame=true"
-</p>
+
+
+
